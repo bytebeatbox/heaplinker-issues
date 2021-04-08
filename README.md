@@ -3,4 +3,4 @@
 </p>
 
 # heaplinker-issues
-*feel free to create issues for [heaplinker.com](https://www.heaplinker.com) website!*
+*feel free to create [issues](https://github.com/heaplinker/heaplinker-issues/issues) for [heaplinker.com](https://www.heaplinker.com) website!*
